@@ -3,7 +3,53 @@ body {
   padding: 0;
   margin: 0;
 }
-
+header {
+  background-color: #52637B;
+  text-align: center;
+  color: white;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+h1 {
+  letter-spacing: 7px;
+  font-size: 4em;
+  font-family: 'Lora', serif;
+  border-bottom-width: 2px;
+  border-bottom-style: solid;
+  border-bottom-color: white;
+  margin-left: 22%;
+  margin-right: 22%;
+}
+.column {
+  float: left;
+}
+#nav {
+  margin-left: 6%;
+  width: 15%;
+  padding-right: 3%;
+}
+#mainContent {
+  width: 50%;
+  border-left-style: solid;
+  border-left-width: 5px;
+  border-left-color: #52637B;
+  border-right-width: 5px;
+  border-right-style: solid;
+  border-right-color: #52637B;
+  padding-left: 1%;
+}
+#image1 {
+  float: right;
+  padding-left: 1%;
+  padding-right: 1%;
+}
+#rightSidebar {
+  width: 17%;
+  padding-left: .5%;
+}
+a {
+  color: #52637B;
+}
 #smallRuler {
   clear: both;
   width: 2000px;
@@ -22,7 +68,6 @@ body {
   font-size: x-small;
   height: 30px;
 }
-
 .ruledSegment {
   width: 9px;
   float: left;

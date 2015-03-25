@@ -1,0 +1,7 @@
+2.The divs go from 350 pixels wide to 310 pixels wide.The size of the boxes are now defined by their border setting, not the combination of the width of the content and the padding.
+3.Both divs went to the right margin of the page and are now next to each other; div 2 is no longer under div 1.
+4.Both divs are still next to each other horizontally, but they are now on the left side of the page.
+5.The directions at the top of the page are fluid and still display fully on the screen, but the divs become cut off when the display shrinks.
+6.Div 1 moved to the right side of the page, and div 2 stayed on the left side but moved over to take the place of where div 1 was.
+7.Div 1's font size is so large that each letter is displayed as going vertically down the page.
+9.The entirety of the divs are always included in the window, no matter what size.
